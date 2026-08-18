@@ -7,5 +7,8 @@ rgs ={
     name = "shwetss"
     location = "westus"
     }
-    
+     rg3={
+    name = "rg-3"
+    location = "westus"
+    }
 }
