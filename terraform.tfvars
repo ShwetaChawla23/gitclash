@@ -11,4 +11,12 @@ rgs ={
     name = "rg-3"
     location = "westus"
     }
+      rg4={
+    name = "rg-4"
+    location = "westus"
+    }
+     rg5={
+    name = "rg-gelsappi-manoshi"
+    location = "westus"
+    }
 }
